@@ -1,6 +1,6 @@
 import Terminal from "#windows/Terminal";
 import Safari from "#windows/Safari";
 import Resume from "#windows/Resume";
-import Finder from "#windows/Finder";
+import FileExplore from "#windows/FileExplore";
 
-export { Terminal, Safari, Resume, Finder };
+export { Terminal, Safari, Resume, FileExplore };
